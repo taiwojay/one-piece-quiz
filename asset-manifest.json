@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/taiwojay/one-piece-quiz/static/css/main.c481e4db.chunk.css",
+    "main.js": "/taiwojay/one-piece-quiz/static/js/main.329775ea.chunk.js",
+    "main.js.map": "/taiwojay/one-piece-quiz/static/js/main.329775ea.chunk.js.map",
+    "runtime-main.js": "/taiwojay/one-piece-quiz/static/js/runtime-main.ed8900e9.js",
+    "runtime-main.js.map": "/taiwojay/one-piece-quiz/static/js/runtime-main.ed8900e9.js.map",
+    "static/js/2.ba77b8d5.chunk.js": "/taiwojay/one-piece-quiz/static/js/2.ba77b8d5.chunk.js",
+    "static/js/2.ba77b8d5.chunk.js.map": "/taiwojay/one-piece-quiz/static/js/2.ba77b8d5.chunk.js.map",
+    "static/js/3.5da22b27.chunk.js": "/taiwojay/one-piece-quiz/static/js/3.5da22b27.chunk.js",
+    "static/js/3.5da22b27.chunk.js.map": "/taiwojay/one-piece-quiz/static/js/3.5da22b27.chunk.js.map",
+    "index.html": "/taiwojay/one-piece-quiz/index.html",
+    "static/css/main.c481e4db.chunk.css.map": "/taiwojay/one-piece-quiz/static/css/main.c481e4db.chunk.css.map",
+    "static/js/2.ba77b8d5.chunk.js.LICENSE.txt": "/taiwojay/one-piece-quiz/static/js/2.ba77b8d5.chunk.js.LICENSE.txt",
+    "static/media/strawhat.a4a51d9b.jpg": "/taiwojay/one-piece-quiz/static/media/strawhat.a4a51d9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed8900e9.js",
+    "static/js/2.ba77b8d5.chunk.js",
+    "static/css/main.c481e4db.chunk.css",
+    "static/js/main.329775ea.chunk.js"
+  ]
+}
